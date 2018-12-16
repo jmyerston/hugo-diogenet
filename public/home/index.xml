@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on Diogenet</title>
+    <link>/home/</link>
+    <description>Recent content in Homes on Diogenet</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0700</lastBuildDate>
+    
+	<atom:link href="/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Intellectual Networks in Ancient Greece</title>
+      <link>/home/hero/</link>
+      <pubDate>Sun, 15 Oct 2017 00:00:00 -0700</pubDate>
+      
+      <guid>/home/hero/</guid>
+      <description>  Star   -- </description>
+    </item>
+    
+    <item>
+      <title>Introdution</title>
+      <link>/home/intro/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/home/intro/</guid>
+      <description>Diogenet is a research project of the Classics program at the University of California, San Diego. It is currently lead by Professors Jacobo Myerston and Monte Johnson and is being implemented by students of the Classics major. The project is part of a larger investigation about the impact of social ties on the construction and diffusion of knowledge in ancient Greece. In Diogenet we use Diogenes Lërtius&amp;rsquo; Lives and Opinions of Eminent Philosophers as a starting point, but we will add more sources in the future.</description>
+    </item>
+    
+    <item>
+      <title>The Theory</title>
+      <link>/home/theory/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/home/theory/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Fermentum leo vel orci porta. Eget sit amet tellus cras adipiscing enim eu. Risus nec feugiat in fermentum posuere urna nec. Non blandit massa enim nec dui nunc mattis enim ut. Quis blandit turpis cursus in hac habitasse platea. Sed adipiscing diam donec adipiscing tristique risus nec feugiat. Quam vulputate dignissim suspendisse in est ante in.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/home/networks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/home/networks/</guid>
+      <description>Global Networks    Global View    
+Local Networks In this site, you can access the Diogenet Network from different perspectives or views. While the Global View of the network is important to gain a perspective of the overall extension of the structure, the Local View allows to focus on one specific node (currenly only human actors) and their neighbors. The variable Order of the Local View determines the distance between Ego and its neighbors.</description>
+    </item>
+    
+    <item>
+      <title>Diogenes Laërtius</title>
+      <link>/home/diogenes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/home/diogenes/</guid>
+      <description>Life Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Fermentum leo vel orci porta. Eget sit amet tellus cras adipiscing enim eu. Risus nec feugiat in fermentum posuere urna nec. Non blandit massa enim nec dui nunc mattis enim ut. Quis blandit turpis cursus in hac habitasse platea. Sed adipiscing diam donec adipiscing tristique risus nec feugiat. Quam vulputate dignissim suspendisse in est ante in.</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>/home/projects/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
+      
+      <guid>/home/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bibliography</title>
+      <link>/home/bibliography/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/home/bibliography/</guid>
+      <description>Crtical Editions Laertius, Diogenes. 2000. Vitarum Philosophorum Libri, Vol. I: Libri I-X. Edited by Miroslav. Marcovich. Stuttgart: Teubner Diogenes, Laertius. 2013. Lives of Eminent Philosophers. Edited by Tiziano Dorandi. Cambridge: Cambridge University Press. . Translations Diogenes Laertius, Pamela Mensch, and James Miller. 2018. Lives of the Eminent Philosophers.</description>
+    </item>
+    
+    <item>
+      <title>Recent Posts</title>
+      <link>/home/posts/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
+      
+      <guid>/home/posts/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

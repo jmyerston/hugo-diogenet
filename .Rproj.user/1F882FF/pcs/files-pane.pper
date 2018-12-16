@@ -1,0 +1,9 @@
+{
+    "path" : "~/Sites/hugo-academic",
+    "sortOrder" : [
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}
