@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bibliography on Diogenet</title>
+    <link>/bibliography/</link>
+    <description>Recent content in Bibliography on Diogenet</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0800</lastBuildDate>
+    
+	<atom:link href="/bibliography/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Critical Editions</title>
+      <link>/bibliography/critical/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/bibliography/critical/</guid>
+      <description> Diogenes, Laertius. 2000. Vitarum Philosophorum Libri, Vol. I: Libri I-X. Edited by M. Marcovich. Berolini: K.G. SAUR VERLAG.
+ ———. 2013. Lives of Eminent Philosophers. Edited by Tiziano Dorandi. Cambridge: Cambridge University Press.
+  </description>
+    </item>
+    
+    <item>
+      <title>Translations</title>
+      <link>/bibliography/translations/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/bibliography/translations/</guid>
+      <description> Diogenes, Laertius. 1925. Lives of Eminent Philosophers. Translated by Robert Drew Hicks. The Loeb Classical Library 184-185. London : New York: W. Heinemann; G.P. Putnam’s Sons.
+ ———. 2018. Lives of the Eminent Philosophers. Translated by Pamela Mensch and James Miller.
+  </description>
+    </item>
+    
+    <item>
+      <title>Intellectual History</title>
+      <link>/bibliography/ancientph/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/bibliography/ancientph/</guid>
+      <description> Diogenes, Laertius. 2000. Vitarum Philosophorum Libri, Vol. I: Libri I-X. Edited by M. Marcovich. Berolini: K.G. SAUR VERLAG.
+ ———. 2013. Lives of Eminent Philosophers. Edited by Tiziano Dorandi. Cambridge: Cambridge University Press.
+  </description>
+    </item>
+    
+    <item>
+      <title>Social Theory</title>
+      <link>/bibliography/sna/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/bibliography/sna/</guid>
+      <description> Diogenes, Laertius. 2000. Vitarum Philosophorum Libri, Vol. I: Libri I-X. Edited by M. Marcovich. Berolini: K.G. SAUR VERLAG.
+ ———. 2013. Lives of Eminent Philosophers. Edited by Tiziano Dorandi. Cambridge: Cambridge University Press.
+  </description>
+    </item>
+    
+  </channel>
+</rss>

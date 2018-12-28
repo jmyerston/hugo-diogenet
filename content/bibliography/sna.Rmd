@@ -1,0 +1,15 @@
+---
+title: Social Theory
+author: ''
+#date: []
+bibliography: diogenes.bib
+showthedate : false
+---
+
+
+---
+nocite: | 
+  @diogenes_lives_2013
+  @diogenes_vitarum_2000
+---
+

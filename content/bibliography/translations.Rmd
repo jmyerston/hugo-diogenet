@@ -1,0 +1,17 @@
+---
+title: Translations
+author: ''
+#date: []
+
+bibliography: diogenes.bib
+showthedate : false
+weight: 2
+---
+---
+nocite: | 
+  @diogenes_lives_2018
+  @diogenes_lives_1925
+---
+
+
+

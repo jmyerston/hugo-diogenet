@@ -11,5 +11,14 @@
 	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title>biblio</title>
+      <link>/categories/biblio/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/biblio/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

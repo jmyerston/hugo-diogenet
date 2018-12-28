@@ -106,10 +106,10 @@ enableGitInfo = false
   # SITE SETUP
 
   # Color theme.
-  #   Choose from `default`, `ocean`, `forest`, `dark`, `apogee`, `1950s`, `coffee`, `cupcake`.
+  #   Choose from `default`, `ocean`, `forest`, `dark`, `apogee`, `1950s`, `c`, `cupcake`.
   color_theme = "default"
   # Enable users to switch between day and night mode?
-  day_night = true
+  day_night = false
 
   # Font style.
   #   Choose from `default`, `classic`, or `playfair`.
@@ -135,7 +135,7 @@ enableGitInfo = false
   time_format = "3:04 PM"
 
   # Show estimated reading time for posts?
-  reading_time = true
+  reading_time = false
 
   # Display comment count? Requires commenting to be enabled.
   comment_count = true
@@ -304,10 +304,10 @@ enableGitInfo = false
 #  name = "Network"
 #  url = "http://diogenes.ucsd.edu/network/"
 #  weight = 8
-[[menu.main]]
-  name = "Theory"
-  url = "#theory"
-  weight = 2
+#[[menu.main]]
+#  name = "Theory"
+#  url = "#theory"
+#  weight = 2
   
 [[menu.main]]
   name = "Networks"
@@ -319,18 +319,18 @@ enableGitInfo = false
   [[menu.main]]
   name = "Diogenes"
   url = "#diogenes"
-  weight = 4
+  weight = 2
 
 
   
-  [[menu.main]]
-  name = "Projects"
-  url = "project"
-  weight = 5
+ # [[menu.main]]
+ # name = "Visualization"
+ # url = "project"
+ # weight = 5
 
 [[menu.main]]
   name = "Bibliography"
-  url = "#bibliography"
+  url = "/bibliography/"
   weight = 6
 
 
@@ -351,10 +351,10 @@ enableGitInfo = false
 #  url = "/tutorial/"
 #  weight = 5
 
-#[[menu.main]]
-#  name = "Contact"
-#  url = "#contact"
-#  weight = 6
+[[menu.main]]
+  name = "Contact"
+  url = "#contact"
+  weight = 10
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.

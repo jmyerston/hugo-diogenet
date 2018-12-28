@@ -4,6 +4,28 @@
     
     <url>
     
+      <loc>/bibliography/critical/</loc>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/bibliography/translations/</loc>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/post/test-2/</loc>
+      <lastmod>2018-12-20T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/post/first-post/</loc>
       <lastmod>2018-12-14T00:00:00+00:00</lastmod>
     </url>
@@ -12,16 +34,16 @@
     
     <url>
     
-      <loc>/tutorial/example/</loc>
-      <lastmod>2018-09-09T00:00:00-07:00</lastmod>
+      <loc>/privacy/</loc>
+      <lastmod>2018-06-28T00:00:00-07:00</lastmod>
     </url>
     
   
     
     <url>
     
-      <loc>/tutorial/</loc>
-      <lastmod>2018-09-09T00:00:00-07:00</lastmod>
+      <loc>/project/globalview/internal-project/</loc>
+      <lastmod>2018-04-27T00:00:00-07:00</lastmod>
     </url>
     
   
@@ -30,6 +52,14 @@
     
       <loc>/publication/diogenes-laertius-lives-2018/</loc>
       <lastmod>2018-01-01T00:00:00-08:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/bibliography/</loc>
+      <lastmod>2017-01-01T00:00:00-08:00</lastmod>
     </url>
     
   
@@ -45,14 +75,6 @@
     <url>
     
       <loc>/project/globalview/external-project/</loc>
-      <lastmod>2016-04-27T00:00:00-07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/project/globalview/internal-project/</loc>
       <lastmod>2016-04-27T00:00:00-07:00</lastmod>
     </url>
     
@@ -85,15 +107,6 @@
     
     <url>
     
-      <loc>/tags/deep-learning/</loc>
-      <lastmod>2016-04-27T00:00:00-07:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>/tags/demo/</loc>
       <lastmod>2016-04-27T00:00:00-07:00</lastmod>
       <priority>0</priority>
@@ -112,8 +125,15 @@
     
     <url>
     
+      <loc>/bibliography/ancientph/</loc>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/project/</loc>
-      <lastmod>2016-04-27T00:00:00-07:00</lastmod>
+      <lastmod>2018-04-27T00:00:00-07:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -139,8 +159,47 @@
     
     <url>
     
+      <loc>/bibliography/sna/</loc>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/tags/</loc>
       <lastmod>2016-04-27T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/post/translations/</loc>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/categories/biblio/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/biblio/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/deep-learning/</loc>
+      <lastmod>2018-04-27T00:00:00-07:00</lastmod>
       <priority>0</priority>
     </url>
     

@@ -1,8 +1,9 @@
 +++
-title = "The Theory"
+title = "Networks"
 #date = {{ .Date }}
-draft = false
+draft = true
 weight = 2
+widget = false
 
 # Tags and categories
 # For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
