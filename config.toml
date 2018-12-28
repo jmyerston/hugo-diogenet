@@ -312,14 +312,14 @@ enableGitInfo = false
 [[menu.main]]
   name = "Networks"
   url = "#networks"
-  weight = 3
+  weight = 2
 
 
   
   [[menu.main]]
   name = "Diogenes"
   url = "#diogenes"
-  weight = 2
+  weight = 3
 
 
   
@@ -331,7 +331,7 @@ enableGitInfo = false
 [[menu.main]]
   name = "Bibliography"
   url = "/bibliography/"
-  weight = 6
+  weight = 4
 
 
   
