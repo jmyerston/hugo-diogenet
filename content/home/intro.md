@@ -27,7 +27,7 @@ The source of our current dataset is the book  *Lives and Opinions of Eminent Ph
 ##  Network Visualization
 With the help of the interactive application that you find below, you can visualize a global view of the network in different ways. You can choose three different types of ties that connect the nodes in the network. For now, these ties are teacher-disciple, friends, and family. In the future, we will add other types of ties denoting who *send letters to whom*, who *cited* and *read* whom, among others. You can scroll with the mouse to zoom in and out the network view; changing the size of the labels can improve readability.
 
-###  Global Network
+###  Global Networks
 Aliquam consectetur est gravida erat blandit rhoncus. In dolor quam, aliquet ut pellentesque quis, volutpat finibus neque. Phasellus vel quam ac dui commodo mattis. Donec ac sodales lorem. Mauris blandit non elit sed porttitor. Praesent pulvinar vel est sit amet sodales. Fusce laoreet pretium eros a feugiat. Nullam in arcu vitae est dapibus gravida. Vestibulum ultrices magna id sagittis fringilla. Vivamus in diam a ipsum viverra interdum quis nec eros. Aliquam sapien libero, semper a ultricies a, dignissim ac enim. Nunc malesuada massa ligula, sit amet lacinia tellus laoreet quis. In sed nisi augue. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas euismod accumsan dolor, a aliquam justo ultricies sit amet. Aliquam erat volutpat. 
 
 ####  Global View 

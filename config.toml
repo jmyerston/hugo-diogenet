@@ -296,7 +296,7 @@ enableGitInfo = false
   align_right = true
 
 [[menu.main]]
-  name = "Intro"
+  name = "Home"
   url = "#intro"
   weight = 1
   
