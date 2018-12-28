@@ -2,7 +2,7 @@
 title = "Diogenes Laërtius"
 #date = {{ .Date }}
 draft = false
-weight = 2
+weight = 4
 
 # Tags and categories
 # For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.

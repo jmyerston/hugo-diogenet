@@ -2,10 +2,12 @@
 title: Critical Editions
 author: ''
 #date: []
+#bibliography: diogenes.bib
+#showthedate : false
 bibliography: diogenes.bib
-showthedate : false
 weight: 1
 ---
+
 
 
 ---
@@ -13,4 +15,3 @@ nocite: |
   @diogenes_lives_2013
   @diogenes_vitarum_2000
 ---
-

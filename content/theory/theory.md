@@ -1,8 +1,8 @@
 +++
-title = "Networks"
+title = "Theory"
 #date = {{ .Date }}
 draft = true
-weight = 2
+weight = 6
 widget = false
 
 # Tags and categories

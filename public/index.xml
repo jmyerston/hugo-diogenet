@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0700</lastBuildDate>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0500</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
@@ -51,77 +51,29 @@
     </item>
     
     <item>
-      <title>Test 2</title>
-      <link>/post/test-2/</link>
-      <pubDate>Thu, 20 Dec 2018 00:00:00 +0000</pubDate>
+      <title>Diogenes Laërtius</title>
+      <link>/diogenes/diogenes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/post/test-2/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>First Post</title>
-      <link>/post/first-post/</link>
-      <pubDate>Fri, 14 Dec 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/post/first-post/</guid>
-      <description>&lt;p&gt;My first post&lt;/p&gt;
+      <guid>/diogenes/diogenes/</guid>
+      <description>
+
+&lt;h1 id=&#34;life&#34;&gt;Life&lt;/h1&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Fermentum leo vel orci porta. Eget sit amet tellus cras adipiscing enim eu. Risus nec feugiat in fermentum posuere urna nec. Non blandit massa enim nec dui nunc mattis enim ut. Quis blandit turpis cursus in hac habitasse platea. Sed adipiscing diam donec adipiscing tristique risus nec feugiat. Quam vulputate dignissim suspendisse in est ante in. Laoreet suspendisse interdum consectetur libero id faucibus. Turpis egestas maecenas pharetra convallis posuere morbi leo urna. Amet commodo nulla facilisi nullam vehicula ipsum a arcu cursus. Mauris commodo quis imperdiet massa tincidunt. Eget dolor morbi non arcu risus quis varius quam. Imperdiet nulla malesuada pellentesque elit eget. Aliquet bibendum enim facilisis gravida neque convallis a cras semper.&lt;/p&gt;
+
+&lt;p&gt;Sapien eget mi proin sed libero. Lacinia at quis risus sed vulputate odio. Turpis nunc eget lorem dolor sed viverra ipsum nunc. Ultricies lacus sed turpis tincidunt id aliquet risus. Velit egestas dui id ornare arcu odio ut sem. Ipsum dolor sit amet consectetur adipiscing. Hendrerit dolor magna eget est lorem. Vulputate mi sit amet mauris commodo. Iaculis nunc sed augue lacus viverra. Leo a diam sollicitudin tempor. Ut placerat orci nulla pellentesque dignissim enim sit amet venenatis. Ultrices tincidunt arcu non sodales neque sodales ut etiam. Ultricies mi eget mauris pharetra et ultrices. Erat nam at lectus urna. Leo a diam sollicitudin tempor id. Enim praesent elementum facilisis leo. Nunc scelerisque viverra mauris in aliquam sem. Mauris rhoncus aenean vel elit. In eu mi bibendum neque egestas.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Privacy Policy</title>
-      <link>/privacy/</link>
-      <pubDate>Thu, 28 Jun 2018 00:00:00 -0700</pubDate>
+      <title>Theory</title>
+      <link>/theory/theory/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/privacy/</guid>
-      <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
+      <guid>/theory/theory/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Fermentum leo vel orci porta. Eget sit amet tellus cras adipiscing enim eu. Risus nec feugiat in fermentum posuere urna nec. Non blandit massa enim nec dui nunc mattis enim ut. Quis blandit turpis cursus in hac habitasse platea. Sed adipiscing diam donec adipiscing tristique risus nec feugiat. Quam vulputate dignissim suspendisse in est ante in. Laoreet suspendisse interdum consectetur libero id faucibus. Turpis egestas maecenas pharetra convallis posuere morbi leo urna. Amet commodo nulla facilisi nullam vehicula ipsum a arcu cursus. Mauris commodo quis imperdiet massa tincidunt. Eget dolor morbi non arcu risus quis varius quam. Imperdiet nulla malesuada pellentesque elit eget. Aliquet bibendum enim facilisis gravida neque convallis a cras semper.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Egocentric Network View</title>
-      <link>/project/globalview/internal-project/</link>
-      <pubDate>Fri, 27 Apr 2018 00:00:00 -0700</pubDate>
-      
-      <guid>/project/globalview/internal-project/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
-
-&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
-
-&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
-
-&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
-
-&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Lives of the eminent philosophers</title>
-      <link>/publication/diogenes-laertius-lives-2018/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 -0800</pubDate>
-      
-      <guid>/publication/diogenes-laertius-lives-2018/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>External Project</title>
-      <link>/project/globalview/external-project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 -0700</pubDate>
-      
-      <guid>/project/globalview/external-project/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Lives of Eminent Philosophers</title>
-      <link>/publication/dorandi-lives-2013/</link>
-      <pubDate>Tue, 01 Jan 2013 00:00:00 -0800</pubDate>
-      
-      <guid>/publication/dorandi-lives-2013/</guid>
-      <description></description>
     </item>
     
     <item>
@@ -162,6 +114,80 @@
 &lt;/div&gt;
 &lt;/div&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Test 2</title>
+      <link>/post/test-2/</link>
+      <pubDate>Thu, 20 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/test-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>First Post</title>
+      <link>/post/first-post/</link>
+      <pubDate>Fri, 14 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/first-post/</guid>
+      <description>&lt;p&gt;My first post&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Privacy Policy</title>
+      <link>/privacy/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 -0500</pubDate>
+      
+      <guid>/privacy/</guid>
+      <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Egocentric Network View</title>
+      <link>/project/globalview/internal-project/</link>
+      <pubDate>Fri, 27 Apr 2018 00:00:00 -0500</pubDate>
+      
+      <guid>/project/globalview/internal-project/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+
+&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+
+&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Lives of the eminent philosophers</title>
+      <link>/publication/diogenes-laertius-lives-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 -0600</pubDate>
+      
+      <guid>/publication/diogenes-laertius-lives-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>External Project</title>
+      <link>/project/globalview/external-project/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0500</pubDate>
+      
+      <guid>/project/globalview/external-project/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lives of Eminent Philosophers</title>
+      <link>/publication/dorandi-lives-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 -0600</pubDate>
+      
+      <guid>/publication/dorandi-lives-2013/</guid>
+      <description></description>
     </item>
     
     <item>
