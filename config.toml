@@ -311,7 +311,7 @@ enableGitInfo = false
   
 [[menu.main]]
   name = "Networks"
-  url = "#networks"
+  url = "#network-visualization"
   weight = 3
 
 
