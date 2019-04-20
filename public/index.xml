@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0700</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
@@ -63,16 +63,6 @@
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Fermentum leo vel orci porta. Eget sit amet tellus cras adipiscing enim eu. Risus nec feugiat in fermentum posuere urna nec. Non blandit massa enim nec dui nunc mattis enim ut. Quis blandit turpis cursus in hac habitasse platea. Sed adipiscing diam donec adipiscing tristique risus nec feugiat. Quam vulputate dignissim suspendisse in est ante in. Laoreet suspendisse interdum consectetur libero id faucibus. Turpis egestas maecenas pharetra convallis posuere morbi leo urna. Amet commodo nulla facilisi nullam vehicula ipsum a arcu cursus. Mauris commodo quis imperdiet massa tincidunt. Eget dolor morbi non arcu risus quis varius quam. Imperdiet nulla malesuada pellentesque elit eget. Aliquet bibendum enim facilisis gravida neque convallis a cras semper.&lt;/p&gt;
 
 &lt;p&gt;Sapien eget mi proin sed libero. Lacinia at quis risus sed vulputate odio. Turpis nunc eget lorem dolor sed viverra ipsum nunc. Ultricies lacus sed turpis tincidunt id aliquet risus. Velit egestas dui id ornare arcu odio ut sem. Ipsum dolor sit amet consectetur adipiscing. Hendrerit dolor magna eget est lorem. Vulputate mi sit amet mauris commodo. Iaculis nunc sed augue lacus viverra. Leo a diam sollicitudin tempor. Ut placerat orci nulla pellentesque dignissim enim sit amet venenatis. Ultrices tincidunt arcu non sodales neque sodales ut etiam. Ultricies mi eget mauris pharetra et ultrices. Erat nam at lectus urna. Leo a diam sollicitudin tempor id. Enim praesent elementum facilisis leo. Nunc scelerisque viverra mauris in aliquam sem. Mauris rhoncus aenean vel elit. In eu mi bibendum neque egestas.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Theory</title>
-      <link>/theory/theory/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/theory/theory/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Fermentum leo vel orci porta. Eget sit amet tellus cras adipiscing enim eu. Risus nec feugiat in fermentum posuere urna nec. Non blandit massa enim nec dui nunc mattis enim ut. Quis blandit turpis cursus in hac habitasse platea. Sed adipiscing diam donec adipiscing tristique risus nec feugiat. Quam vulputate dignissim suspendisse in est ante in. Laoreet suspendisse interdum consectetur libero id faucibus. Turpis egestas maecenas pharetra convallis posuere morbi leo urna. Amet commodo nulla facilisi nullam vehicula ipsum a arcu cursus. Mauris commodo quis imperdiet massa tincidunt. Eget dolor morbi non arcu risus quis varius quam. Imperdiet nulla malesuada pellentesque elit eget. Aliquet bibendum enim facilisis gravida neque convallis a cras semper.&lt;/p&gt;
 </description>
     </item>
     
@@ -136,19 +126,9 @@
     </item>
     
     <item>
-      <title>Privacy Policy</title>
-      <link>/privacy/</link>
-      <pubDate>Thu, 28 Jun 2018 00:00:00 -0500</pubDate>
-      
-      <guid>/privacy/</guid>
-      <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Egocentric Network View</title>
       <link>/project/globalview/internal-project/</link>
-      <pubDate>Fri, 27 Apr 2018 00:00:00 -0500</pubDate>
+      <pubDate>Fri, 27 Apr 2018 00:00:00 -0700</pubDate>
       
       <guid>/project/globalview/internal-project/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
@@ -166,7 +146,7 @@
     <item>
       <title>Lives of the eminent philosophers</title>
       <link>/publication/diogenes-laertius-lives-2018/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 -0600</pubDate>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 -0800</pubDate>
       
       <guid>/publication/diogenes-laertius-lives-2018/</guid>
       <description></description>
@@ -175,7 +155,7 @@
     <item>
       <title>External Project</title>
       <link>/project/globalview/external-project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 -0500</pubDate>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0700</pubDate>
       
       <guid>/project/globalview/external-project/</guid>
       <description></description>
@@ -184,7 +164,7 @@
     <item>
       <title>Lives of Eminent Philosophers</title>
       <link>/publication/dorandi-lives-2013/</link>
-      <pubDate>Tue, 01 Jan 2013 00:00:00 -0600</pubDate>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 -0800</pubDate>
       
       <guid>/publication/dorandi-lives-2013/</guid>
       <description></description>

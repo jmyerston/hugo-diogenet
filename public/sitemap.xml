@@ -25,13 +25,6 @@
     
     <url>
     
-      <loc>/theory/theory/</loc>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>/bibliography/ancientph/</loc>
     </url>
     
@@ -62,16 +55,8 @@
     
     <url>
     
-      <loc>/privacy/</loc>
-      <lastmod>2018-06-28T00:00:00-05:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>/project/globalview/internal-project/</loc>
-      <lastmod>2018-04-27T00:00:00-05:00</lastmod>
+      <lastmod>2018-04-27T00:00:00-07:00</lastmod>
     </url>
     
   
@@ -79,7 +64,7 @@
     <url>
     
       <loc>/publication/diogenes-laertius-lives-2018/</loc>
-      <lastmod>2018-01-01T00:00:00-06:00</lastmod>
+      <lastmod>2018-01-01T00:00:00-08:00</lastmod>
     </url>
     
   
@@ -87,7 +72,7 @@
     <url>
     
       <loc>/bibliography/</loc>
-      <lastmod>2017-01-01T00:00:00-06:00</lastmod>
+      <lastmod>2017-01-01T00:00:00-08:00</lastmod>
     </url>
     
   
@@ -95,7 +80,7 @@
     <url>
     
       <loc>/diogenes/</loc>
-      <lastmod>2017-01-01T00:00:00-06:00</lastmod>
+      <lastmod>2017-01-01T00:00:00-08:00</lastmod>
     </url>
     
   
@@ -103,7 +88,7 @@
     <url>
     
       <loc>/post/</loc>
-      <lastmod>2017-01-01T00:00:00-06:00</lastmod>
+      <lastmod>2017-01-01T00:00:00-08:00</lastmod>
     </url>
     
   
@@ -111,7 +96,7 @@
     <url>
     
       <loc>/theory/</loc>
-      <lastmod>2017-01-01T00:00:00-06:00</lastmod>
+      <lastmod>2017-01-01T00:00:00-08:00</lastmod>
     </url>
     
   
@@ -119,7 +104,7 @@
     <url>
     
       <loc>/project/globalview/external-project/</loc>
-      <lastmod>2016-04-27T00:00:00-05:00</lastmod>
+      <lastmod>2016-04-27T00:00:00-07:00</lastmod>
     </url>
     
   
@@ -127,7 +112,7 @@
     <url>
     
       <loc>/publication/dorandi-lives-2013/</loc>
-      <lastmod>2013-01-01T00:00:00-06:00</lastmod>
+      <lastmod>2013-01-01T00:00:00-08:00</lastmod>
     </url>
     
   
@@ -135,7 +120,7 @@
     <url>
     
       <loc>/publication_types/5/</loc>
-      <lastmod>2018-01-01T00:00:00-06:00</lastmod>
+      <lastmod>2018-01-01T00:00:00-08:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -152,7 +137,7 @@
     <url>
     
       <loc>/tags/demo/</loc>
-      <lastmod>2016-04-27T00:00:00-05:00</lastmod>
+      <lastmod>2016-04-27T00:00:00-07:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -161,7 +146,7 @@
     <url>
     
       <loc>/</loc>
-      <lastmod>2017-10-15T00:00:00-05:00</lastmod>
+      <lastmod>2017-10-15T00:00:00-07:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -170,7 +155,7 @@
     <url>
     
       <loc>/project/</loc>
-      <lastmod>2018-04-27T00:00:00-05:00</lastmod>
+      <lastmod>2018-04-27T00:00:00-07:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -179,7 +164,7 @@
     <url>
     
       <loc>/publication_types/</loc>
-      <lastmod>2018-01-01T00:00:00-06:00</lastmod>
+      <lastmod>2018-01-01T00:00:00-08:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -188,7 +173,7 @@
     <url>
     
       <loc>/publication/</loc>
-      <lastmod>2018-01-01T00:00:00-06:00</lastmod>
+      <lastmod>2018-01-01T00:00:00-08:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -197,7 +182,7 @@
     <url>
     
       <loc>/tags/</loc>
-      <lastmod>2016-04-27T00:00:00-05:00</lastmod>
+      <lastmod>2016-04-27T00:00:00-07:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -229,7 +214,7 @@
     <url>
     
       <loc>/tags/deep-learning/</loc>
-      <lastmod>2018-04-27T00:00:00-05:00</lastmod>
+      <lastmod>2018-04-27T00:00:00-07:00</lastmod>
       <priority>0</priority>
     </url>
     
