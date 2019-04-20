@@ -32,7 +32,7 @@ Aliquam consectetur est gravida erat blandit rhoncus. In dolor quam, aliquet ut 
 
 ####  Global View 
 ***
-<iframe src="http://diogenes.ucsd.edu/network" height="900" width="1250" align="middle" frameBorder="0">  </iframe>
+<iframe src="http://54.187.249.168/network" height="900" width="1250" align="middle" frameBorder="0">  </iframe>
 ***
 
 ### Local Networks
@@ -41,7 +41,7 @@ In this site, you can access the Diogenet Network from different perspectives or
 
 #### Local View
 ***
-<iframe src="http://diogenes.ucsd.edu/egograph" height="875" width="1250" align="middle" frameBorder="0" scrolling="no"> </iframe>
+<iframe src="http://54.187.249.168/egograph" height="875" width="1250" align="middle" frameBorder="0" scrolling="no"> </iframe>
 ***
 
 ###  Communities
@@ -52,5 +52,5 @@ At the end of each bridge, there are nodes that control the flow of ideas and in
 
 #### Communal View
 ***
-<iframe src="http://diogenes.ucsd.edu/community" height="950" width="1250" align="middle" frameBorder="0" scrolling="no"></iframe>
+<iframe src="http://54.187.249.168/community" height="950" width="1250" align="middle" frameBorder="0" scrolling="no"></iframe>
 ***
