@@ -32,16 +32,20 @@ Aliquam consectetur est gravida erat blandit rhoncus. In dolor quam, aliquet ut 
 
 ####  Global View 
 ***
-<iframe src="http://54.187.249.168/network" height="900" width="1250" align="middle" frameBorder="0">  </iframe>
+<iframe src="global_vnw.html" height="600" width="1100" align="middle" frameBorder="0">  </iframe>
+
 ***
+
 
 ### Local Networks
 
 In this site, you can access the Diogenet Network from different perspectives or views.  While the *Global View* of the network is important to gain a perspective of the overall extension of the structure, the *Local View* allows to focus on one specific node (currenly only human actors) and their neighbors.  The variable *Order* of the *Local View* determines the distance between *Ego* and its neighbors. Setting *Order* to 1 will return only the node choosen in the pop-up menu *Node*; setting it to 2 will return *Ego* and its neighbors at 2 steps from *Ego*.
 
 #### Local View
+
 ***
-<iframe src="http://54.187.249.168/egograph" height="875" width="1250" align="middle" frameBorder="0" scrolling="no"> </iframe>
+<iframe src="egonet_vnw.html" height="600" width="1100" align="middle" frameBorder="0" scrolling="no"> </iframe>
+
 ***
 
 ###  Communities
@@ -51,6 +55,10 @@ With the help of different algorithms and the use of the library igraph, it is p
 At the end of each bridge, there are nodes that control the flow of ideas and information in general between communities. Those nodes are brokers of special importance for understanding the structure of the network. A broker can act as a facilitator between two or more communities of intellectuals but can also capitalize such a position by restricting the flow of communication between communities and thus claiming a special social status as a consequence of his/her mediation.  Brokers can act then both as mediators and bottlenecks, and because they are connected to different sources of knowledge they  can synthesize divergent intellectual positions and capitalize their syntheses as innovations. 
 
 #### Communal View
+
 ***
-<iframe src="http://54.187.249.168/community" height="950" width="1250" align="middle" frameBorder="0" scrolling="no"></iframe>
+
+<iframe src="comnty_vnw.html" height="600" width="1100" align="middle" frameBorder="0" scrolling="no"></iframe>
+
+
 ***
