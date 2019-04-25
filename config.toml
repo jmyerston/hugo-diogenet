@@ -309,10 +309,10 @@ enableGitInfo = false
 #  url = "#theory"
 #  weight = 2
   
-[[menu.main]]
-  name = "Networks"
-  url = "#network-visualization"
-  weight = 3
+#[[menu.main]]
+#  name = "Networks"
+ # url = "#network-visualization"
+#  weight = 3
 
 
   
