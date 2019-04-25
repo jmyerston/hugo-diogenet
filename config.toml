@@ -324,9 +324,9 @@ enableGitInfo = false
 
   
  [[menu.main]]
-  name = "Theory"
-  url = "/theory/"
-  weight = 5
+ name = "Dashboard"
+ url = "/dashboard/"
+ weight = 5
 
 [[menu.main]]
   name = "Bibliography"
