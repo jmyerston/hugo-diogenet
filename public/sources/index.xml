@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sources on Diogenet</title>
+    <link>/sources/</link>
+    <description>Recent content in Sources on Diogenet</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0800</lastBuildDate>
+    
+	<atom:link href="/sources/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Sources</title>
+      <link>/sources/sources/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sources/sources/</guid>
+      <description>Life Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Fermentum leo vel orci porta. Eget sit amet tellus cras adipiscing enim eu. Risus nec feugiat in fermentum posuere urna nec. Non blandit massa enim nec dui nunc mattis enim ut. Quis blandit turpis cursus in hac habitasse platea. Sed adipiscing diam donec adipiscing tristique risus nec feugiat. Quam vulputate dignissim suspendisse in est ante in.</description>
+    </item>
+    
+  </channel>
+</rss>

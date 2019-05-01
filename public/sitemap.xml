@@ -18,14 +18,7 @@
     
     <url>
     
-      <loc>/diogenes/diogenes/</loc>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/theory/theory/</loc>
+      <loc>/sources/sources/</loc>
     </url>
     
   
@@ -62,14 +55,6 @@
     
     <url>
     
-      <loc>/privacy/</loc>
-      <lastmod>2018-06-28T00:00:00-07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>/project/globalview/internal-project/</loc>
       <lastmod>2018-04-27T00:00:00-07:00</lastmod>
     </url>
@@ -94,7 +79,7 @@
     
     <url>
     
-      <loc>/diogenes/</loc>
+      <loc>/post/</loc>
       <lastmod>2017-01-01T00:00:00-08:00</lastmod>
     </url>
     
@@ -102,7 +87,7 @@
     
     <url>
     
-      <loc>/post/</loc>
+      <loc>/sources/</loc>
       <lastmod>2017-01-01T00:00:00-08:00</lastmod>
     </url>
     

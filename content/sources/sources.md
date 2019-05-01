@@ -1,5 +1,5 @@
 +++
-title = "Diogenes Laërtius"
+title = "Sources"
 #date = {{ .Date }}
 draft = false
 weight = 4
