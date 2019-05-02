@@ -25,20 +25,6 @@
     
     <url>
     
-      <loc>/map/map/</loc>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/theory/theory/</loc>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>/bibliography/ancientph/</loc>
     </url>
     
@@ -63,14 +49,6 @@
     
       <loc>/post/first-post/</loc>
       <lastmod>2018-12-14T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/privacy/</loc>
-      <lastmod>2018-06-28T00:00:00-07:00</lastmod>
     </url>
     
   
