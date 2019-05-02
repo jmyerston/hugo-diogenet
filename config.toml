@@ -331,7 +331,7 @@ enableGitInfo = false
 
 [[menu.main]]
   name = "Map"
-  url = "http://diogenet.ucsd.edu/map/"
+  url = "http://diogenet.ucsd.edu/map/map.html"
   weight = 6
 
 [[menu.main]]
