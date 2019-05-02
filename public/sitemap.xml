@@ -25,6 +25,20 @@
     
     <url>
     
+      <loc>/map/map/</loc>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/theory/theory/</loc>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/bibliography/ancientph/</loc>
     </url>
     
@@ -49,6 +63,14 @@
     
       <loc>/post/first-post/</loc>
       <lastmod>2018-12-14T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/privacy/</loc>
+      <lastmod>2018-06-28T00:00:00-07:00</lastmod>
     </url>
     
   
@@ -119,6 +141,13 @@
     
     <url>
     
+      <loc>/map/map/</loc>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/publication_types/5/</loc>
       <lastmod>2018-01-01T00:00:00-08:00</lastmod>
       <priority>0</priority>
@@ -147,6 +176,14 @@
     
       <loc>/</loc>
       <lastmod>2017-10-15T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/map/</loc>
       <priority>0</priority>
     </url>
     
@@ -197,7 +234,7 @@
     
     <url>
     
-      <loc>/categories/biblio/</loc>
+      <loc>/tags/biblio/</loc>
       <priority>0</priority>
     </url>
     
@@ -205,7 +242,7 @@
     
     <url>
     
-      <loc>/tags/biblio/</loc>
+      <loc>/categories/biblio/</loc>
       <priority>0</priority>
     </url>
     

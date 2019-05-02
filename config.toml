@@ -317,8 +317,8 @@ enableGitInfo = false
 
   
   [[menu.main]]
-  name = "Diogenes"
-  url = "/diogenes/"
+  name = "Sources"
+  url = "/sources/"
   weight = 4
 
 
@@ -328,19 +328,22 @@ enableGitInfo = false
  url = "/dashboard/"
  weight = 5
 
+
+[[menu.main]]
+  name = "Map"
+  url = "http://diogenet.ucsd.edu/map/"
+  weight = 6
+
 [[menu.main]]
   name = "Bibliography"
   url = "/bibliography/"
-  weight = 6
+  weight = 7
 
 
   
-#[[menu.main]]
-#  name = "Posts"
-#  url = "#posts"
-#  weight = 7
+
   
-  [[menu.main]]
+[[menu.main]]
   name = "Team"
   url = "#team"
   weight = 8
