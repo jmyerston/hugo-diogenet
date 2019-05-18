@@ -20,7 +20,7 @@ categories = []
   focal_point = ""
 +++
 ## Introduction
-Diogenet is a research project of the Classics program of the University of California, San Diego, and is part of a larger investigation about the impact of social ties on the construction and diffusion of knowledge in ancient Greece. 
+ Diogenet is a research project of the Classics program of the University of California, San Diego, and is part of a larger investigation about the impact of social ties on the construction and diffusion of knowledge in ancient Greece. 
 The main theoretical approach at the foundations of Diogenet is formal social network analysis, a branch of graph theory and sociology. Accordingly, we use the concepts of nodes and ties to build a dataset of intellectuals of the ancient world and the ties that linked them. Conceptualizing ancient intellectual life in this manner allows approaching problems of knowledge dissemination and brokerage, as well as the building of symbolic and social capital in a way that is novel in history of ideas. 
 The source of our current dataset is the book  *Lives and Opinions of Eminent Philosophers* that the Greek author Diogenes Laertius wrote in the 3rd century CE. Currently we offer an interactive visualization of the network that Diogenes describe in some details. To make sense of the visualization some background in the history of ancient Greek philosophy is necessary. For this reason we recommend using the visualization tools in conjunction with Diogenes’ text which is available in various editions in Greek and translation ([see Bibliography]({{< ref "bibliography" >}})). 
 
