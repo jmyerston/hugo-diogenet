@@ -63,7 +63,7 @@ enableGitInfo = false
   #avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
   # Details for the Contact Widget
-  email = "test@example.org"
+  email = "diogenet@ucsd.edu"
   #address = "Building 1 Room 1, Stanford University, California, 90210, USA"
   #office_hours = """
   #Monday 10:00 to 13:00\\
@@ -372,7 +372,7 @@ enableGitInfo = false
   #   0: No search engine
   #   1: Built-in (Fuse)
   #   2: Algolia (https://www.algolia.com)
-  engine = 1
+  engine = 0
 
   # Configuration of Algolia search engine.
   # Paste the values from your Algolia dashboard.
