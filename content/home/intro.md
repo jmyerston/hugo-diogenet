@@ -65,13 +65,23 @@ social network analysis.
 
 
 
-##  Network Visualization
-With the help of the interactive application that you find below, you can visualize a global view of the network in different ways. You can choose three different types of ties that connect the nodes in the network. For now, these ties are teacher-disciple, friends, and family. In the future, we will add other types of ties denoting who *send letters to whom*, who *cited* and *read* whom, among others. You can scroll with the mouse to zoom in and out the network view; changing the size of the labels can improve readability.
+##  Network Visualizations
+Diogenet's dataset can be accessed through the Dashboard. With the help
+of the interactive applications that you will find there, you can
+visualize a global and local view of the networks. Each network is built
+by specific type of relation or tie. A family network, for instance, is
+different from a network of friends or peer philosophers. The
+expectations, themes of conversation and even patterns of behavior in
+each network are influenced by the type of relation in which the actors
+are involved.
 
-###  Global Networks
-Aliquam consectetur est gravida erat blandit rhoncus. In dolor quam, aliquet ut pellentesque quis, volutpat finibus neque. Phasellus vel quam ac dui commodo mattis. Donec ac sodales lorem. Mauris blandit non elit sed porttitor. Praesent pulvinar vel est sit amet sodales. Fusce laoreet pretium eros a feugiat. Nullam in arcu vitae est dapibus gravida. Vestibulum ultrices magna id sagittis fringilla. Vivamus in diam a ipsum viverra interdum quis nec eros. Aliquam sapien libero, semper a ultricies a, dignissim ac enim. Nunc malesuada massa ligula, sit amet lacinia tellus laoreet quis. In sed nisi augue. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas euismod accumsan dolor, a aliquam justo ultricies sit amet. Aliquam erat volutpat. 
+### Global View
+In the visualization that you see right below, the actors in the network are
+represented as nodes and the relations between them as arrows or
+vertices. We call it a global view because in it you can see the entire nextwork of teachers and pupils. This simplified version of the Dashboard is interactive, this means that the nodes can be moved with the mouse, and
+clicking on the nodes will highlight their most immediate ties. You can
+also scroll with the mouse to zoom in and out the network.
 
-####  Global View 
 ***
 <iframe src="global_vnw.html" height="600" width="1100" align="middle" frameBorder="0">  </iframe>
 
@@ -80,7 +90,7 @@ Aliquam consectetur est gravida erat blandit rhoncus. In dolor quam, aliquet ut 
 
 ### Local Networks
 
-In this site, you can access the Diogenet Network from different perspectives or views.  While the *Global View* of the network is important to gain a perspective of the overall extension of the structure, the *Local View* allows to focus on one specific node (currenly only human actors) and their neighbors.  The variable *Order* of the *Local View* determines the distance between *Ego* and its neighbors. Setting *Order* to 1 will return only the node choosen in the pop-up menu *Node*; setting it to 2 will return *Ego* and its neighbors at 2 steps from *Ego*.
+As we just mentioned, you can access Diogenet's dataset from different perspectives.  While the *Global View* of the network is important to gain a panoramic view of the overall structure, the *Local View* allows to focus on one specific node  and their neighbors.You can further explore the local view in the Dashboard where you will find several variables that can be modified.
 
 #### Local View
 
@@ -88,12 +98,13 @@ In this site, you can access the Diogenet Network from different perspectives or
 <iframe src="egonet_vnw.html" height="600" width="1100" align="middle" frameBorder="0" scrolling="no"> </iframe>
 
 ***
+ In network theory, a node that is the focus of a local analysis is called the *ego*, while its neighbors are *alters*. The distance between *ego* and *alter* is called *order*. Higher order will return more neighbors if the node is not socially isolated. The ego in the present visualization is Plato and the order set to 2, this means, it includes those individuals who are 1 to 2 steps away from Plato.  
 
 ###  Communities
 
-With the help of different algorithms and the use of the library igraph, it is possible to identify **communities** in Diogenet. A community is a cohesive group of social actors. We offer here three different algorithms you can choose from. Some of them, for example, the **Cluster Louvain** algorithm not only identifies communities but the bridges that establish a path of communication between them.  In social network analysis,  a **bridge** is a tie that connects two components or communities. In the present visualization of communities bridges are highlighted with red ties.
+With the help of different algorithms, it is possible to identify *communities*  of philosohers, friends, and family. A community is a cohesive group of social actors. In the diagram below, each community is highlighted with different colors. Most interestingly, algorithms find communities that do not overlap with current designations of philosophical schools. This is understadable because algorithms do not identify communties in terms of self-designations such as "followers of Plato". Instead they consider the actual ties that link the nodes.  
 
-At the end of each bridge, there are nodes that control the flow of ideas and information in general between communities. Those nodes are brokers of special importance for understanding the structure of the network. A broker can act as a facilitator between two or more communities of intellectuals but can also capitalize such a position by restricting the flow of communication between communities and thus claiming a special social status as a consequence of his/her mediation.  Brokers can act then both as mediators and bottlenecks, and because they are connected to different sources of knowledge they  can synthesize divergent intellectual positions and capitalize their syntheses as innovations. 
+
 
 #### Communal View
 
@@ -103,3 +114,7 @@ At the end of each bridge, there are nodes that control the flow of ideas and in
 
 
 ***
+
+In the Dashboard, we offer here seven different algorithms you can choose from. Some of them, for example, the *Cluster Louvain* algorithm not only identifies communities but also the bridges that establish a path of communication between them.  In social network analysis,  a *bridge* is a tie that connects two components or communities. In the Dashboard, you can see the bridges highlighted in red when you chose Igraph as the visualization library. The library Visnetwork do not offer this option but it allows the nodes to be moved around for their closer inspection. 
+
+

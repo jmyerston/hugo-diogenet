@@ -213,7 +213,7 @@
     
     <url>
     
-      <loc>/categories/biblio/</loc>
+      <loc>/tags/biblio/</loc>
       <priority>0</priority>
     </url>
     
@@ -221,7 +221,7 @@
     
     <url>
     
-      <loc>/tags/biblio/</loc>
+      <loc>/categories/biblio/</loc>
       <priority>0</priority>
     </url>
     
