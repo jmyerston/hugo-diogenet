@@ -20,9 +20,50 @@ categories = []
   focal_point = ""
 +++
 ## Introduction
- Diogenet is a research project of the Classics program of the University of California, San Diego, and is part of a larger investigation about the impact of social ties on the construction and diffusion of knowledge in ancient Greece. 
-The main theoretical approach at the foundations of Diogenet is formal social network analysis, a branch of graph theory and sociology. Accordingly, we use the concepts of nodes and ties to build a dataset of intellectuals of the ancient world and the ties that linked them. Conceptualizing ancient intellectual life in this manner allows approaching problems of knowledge dissemination and brokerage, as well as the building of symbolic and social capital in a way that is novel in history of ideas. 
-The source of our current dataset is the book  *Lives and Opinions of Eminent Philosophers* that the Greek author Diogenes Laertius wrote in the 3rd century CE. Currently we offer an interactive visualization of the network that Diogenes describe in some details. To make sense of the visualization some background in the history of ancient Greek philosophy is necessary. For this reason we recommend using the visualization tools in conjunction with Diogenes’ text which is available in various editions in Greek and translation ([see Bibliography]({{< ref "bibliography" >}})). 
+Diogenet is a dataset and tool for the investigation of the impact of
+social ties on the construction and diffusion of knowledge in ancient
+Greece. The main theoretical approach at the foundations of Diogenet is
+formal social network analysis, a branch of anthropology and sociology.
+Accordingly, we use the concepts of network, nodes and ties, to study
+the relations that linked a large number of intellectuals of the ancient
+world. Contrary to most intellectual histories of the ancient Greece, we
+do not only focus on philosophers but also on their family members,
+friends outside the field of philosophy and science, and benefactors.
+Another important aspect of this project is our interest in the effect
+of traveling on the discovery of ideas. We think that moving away from
+the conception that fields of knowledge are closed systems allows a
+better undestanding of the social processes that lie under the
+dissemination of knowledge in the ancient world.
+
+The main source of our current dataset is the *Lives and Opinions of
+Eminent Philosophers* that [Diogenes
+Laertius](http://diogenet.ucsd.edu/sources/) wrote in the third century
+CE, about seven hundred years after the appearance of first philosophers
+in Asia Minor. In this work, the Greek doxographer and biographer
+reports the main theories and life anecdotes of the philosophers of the
+archaic, classical, and Hellenistic periods. Despite his meticulous
+accounts, however, Diogenes Laertius has been much distrusted by modern
+historians of philosophy. One of the main arguments raised against his
+work is based on the apparently excessive attention that he paid to
+matters perceived as irrelevant for the history of ideas. These
+digressions are in fact stories about the family, friends, romantic
+relations, benefactors, and travels of ancient philosophers. It is
+precisely this perceived weakness that makes his work a great starting
+point for the reconstruction of the social networks of the intellectual
+of ancient Greece.
+
+Currently we offer four interactive visualizations of the social network
+that Diogenes described in the *Lives*. To make sense of these
+visualizations some background both in social network theory and the
+history of ancient Greek philosophy is necessary. For this reason, we
+recommend using the visualization tools in the
+[Dashboard](http://diogenet.ucsd.edu/dashboard/) and the
+[Map](http://diogenet.ucsd.edu/map/map.html) in conjunction with
+Diogenes' text which is available in various editions in [Greek and
+translation](http://diogenet.ucsd.edu/sources/) and an introduction to
+social network analysis.
+
+
 
 ##  Network Visualization
 With the help of the interactive application that you find below, you can visualize a global view of the network in different ways. You can choose three different types of ties that connect the nodes in the network. For now, these ties are teacher-disciple, friends, and family. In the future, we will add other types of ties denoting who *send letters to whom*, who *cited* and *read* whom, among others. You can scroll with the mouse to zoom in and out the network view; changing the size of the labels can improve readability.

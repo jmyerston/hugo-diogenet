@@ -33,14 +33,6 @@
     
     <url>
     
-      <loc>/sources/sextus-empircus/</loc>
-      <lastmod>2019-05-05T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>/sources/diels-kranz/</loc>
       <lastmod>2019-05-05T00:00:00+00:00</lastmod>
     </url>
@@ -221,7 +213,7 @@
     
     <url>
     
-      <loc>/tags/biblio/</loc>
+      <loc>/categories/biblio/</loc>
       <priority>0</priority>
     </url>
     
@@ -229,7 +221,7 @@
     
     <url>
     
-      <loc>/categories/biblio/</loc>
+      <loc>/tags/biblio/</loc>
       <priority>0</priority>
     </url>
     
