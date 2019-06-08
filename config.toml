@@ -109,7 +109,7 @@ enableGitInfo = false
   #   Choose from `default`, `ocean`, `forest`, `dark`, `apogee`, `1950s`, `c`, `cupcake`.
   color_theme = "default"
   # Enable users to switch between day and night mode?
-  day_night = false
+  day_night = true
 
   # Font style.
   #   Choose from `default`, `classic`, or `playfair`.
@@ -177,7 +177,7 @@ enableGitInfo = false
   # highlight_style = "github"
 
   # Enable native social sharing buttons?
-  sharing = true
+  sharing = false
 
   # Privacy pack
   #   Show a cookie consent message to visitors
@@ -343,10 +343,10 @@ enableGitInfo = false
   
 
   
-[[menu.main]]
-  name = "Team"
-  url = "#team"
-  weight = 8
+#[[menu.main]]
+#  name = "Team"
+#  url = "#team"
+#  weight = 8
 
 
 #[[menu.main]]
@@ -354,10 +354,10 @@ enableGitInfo = false
 #  url = "/tutorial/"
 #  weight = 5
 
-#[[menu.main]]
-#  name = "Contact"
-#  url = "#contact"
-#  weight = 10
+[[menu.main]]
+  name = "Team"
+  url = "/team members/"
+  weight = 10
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
