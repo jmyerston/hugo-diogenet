@@ -1,5 +1,5 @@
 ---
-title: Social Theory
+title: Social Networks
 author: ''
 #date: []
 bibliography: diogenes.bib
@@ -10,7 +10,12 @@ weight: 10
 
 ---
 nocite: | 
-  @diogenes_lives_2013
-  @diogenes_vitarum_2000
+  @latour_reassembling_2007
+  @nooy_exploratory_2018
+  @perry_egocentric_2018
+  @white_identity_1992
+  @wasserman_social_1994
+  
+ 
 ---
 

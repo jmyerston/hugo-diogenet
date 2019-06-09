@@ -1,0 +1,20 @@
+---
+title: Sociology of Meaning
+author: ''
+#date: []
+bibliography: diogenes.bib
+showthedate : false
+weight: 10
+---
+
+
+---
+nocite: | 
+  @law_actor_2009
+  @collins_network-location_2003
+  @kirchner_meanings_2010
+  @godart_switchings_2010
+  @luhmann_meaning_1995
+  @schutz_phenomenology_1967
+---
+

@@ -8,6 +8,7 @@ weight: 2
 nocite: | 
   @diogenes_lives_2018
   @diogenes_lives_1925
+  @diogenes_laercio_vidas_2007
 ---
 
 

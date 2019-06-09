@@ -4,13 +4,16 @@ author: ''
 #date: []
 bibliography: diogenes.bib
 showthedate : false
-weight: 7
+weight: 9
 ---
 
 
 ---
 nocite: | 
-  @diogenes_lives_2013
-  @diogenes_vitarum_2000
+  @collins_sociology_1998 
+  @gemelli-marciano_east_2017
+  @burkert_prehistory_2008
+  @burkert_lore_1972
+  @lloyd_revolutions_1989
 ---
 
