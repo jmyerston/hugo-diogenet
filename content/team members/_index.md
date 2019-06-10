@@ -20,8 +20,8 @@ header:
 **César Pernalete** is a data scientist with extensive experience in computer modeling and simulation. He is senior software developer at Diogenet.
 
 
-**Sydney Preston** is a student of the Classical Studies Program  at UCSD and responsible for text annotation and data cleaning.
+**Sydney Preston** is a student of the Classical Studies Program  at UCSD, responsible for text annotation and data cleaning.
 
-**Andrew Tracy** is a student of the Classical Studies Program at UCSD and responsible for text annotation and geoparsing.
+**Andrew Tracy** is a student of the Classical Studies Program at UCSD, responsible for text annotation and geoparsing.
 
 

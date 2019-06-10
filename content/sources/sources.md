@@ -1,5 +1,5 @@
 +++
-title = "Sources"
+title = "Corpus"
 #date = {{ .Date }}
 draft = false
 weight = 1
