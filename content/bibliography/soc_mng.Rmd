@@ -1,5 +1,5 @@
 ---
-title: Sociology of Meaning
+title: Society and Meaning
 author: ''
 #date: []
 bibliography: diogenes.bib
