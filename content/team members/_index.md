@@ -1,5 +1,5 @@
 ---
-title: Researchers
+title: People
 
 # View.
 #   1 = List
