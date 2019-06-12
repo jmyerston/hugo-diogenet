@@ -556,16 +556,16 @@ a[data-fancybox] img {
 .hero-overlay .hero-title,
 .hero-overlay .hero-lead,
 .hero-overlay .btn {
-  color: #fff;
+  color: #000;
   text-shadow: 1px 1px 4px rgba(0,0,0,0.5);
 }
 
 .hero-overlay a {
-  color: #fff;
+  color: #000;
 }
 
 .hero-overlay .hero-lead a {
-  color: #fff;
+  color: #000;
   text-decoration-line: underline;
 }
 
