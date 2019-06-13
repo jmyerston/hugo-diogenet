@@ -203,10 +203,10 @@ output$global_network = renderVisNetwork({
   
   # Setting parameters straight in the data frame for visNetwork
   data$nodes$color.background = case_when(
-    data$nodes$Group == "Male" ~ '#FF6347',
-    data$nodes$Group == "Female" ~ '#ffa500',
-    data$nodes$Group == "Place" ~ '#31e001',
-    data$nodes$Group == "God" ~ '#05e2ff'
+    data$nodes$Group == "Male" ~ '#0048E4',
+    data$nodes$Group == "Female" ~ '#FF0000',
+    data$nodes$Group == "Place" ~ '#62BC0A',
+    data$nodes$Group == "God" ~ '#FBF100'
   )
   
   # Setting group in visnetwork format
@@ -223,13 +223,13 @@ output$global_network = renderVisNetwork({
   
   # Setting parameters straight in the data frame for visNetwork
   data$edges$color.color = case_when(
-    data$edges$Relation == "is teacher of" ~ '#0000FF',
-    data$edges$Relation == "is friend of" ~ '#228B22',
+    data$edges$Relation == "is teacher of" ~ '#55402B',
+    data$edges$Relation == "is friend of" ~ '#4F66AD',
     data$edges$Relation == "is family of" ~ '#FF0000', 
-    data$edges$Relation == "studied the work of" ~ '#ff01d9',
-    data$edges$Relation == "sent letters to" ~ '#ffbf00',
+    data$edges$Relation == "studied the work of" ~ '#FC8A21',
+    data$edges$Relation == "sent letters to" ~ '7B09B0',
     #data$edges$Relation == "is associated with" ~ '#14ff03',
-    data$edges$Relation == "is benefactor of" ~ '#fff23c'
+    data$edges$Relation == "is benefactor of" ~ '#9C8475'
   )
   
   data$edges$color.highlight = case_when(
@@ -245,13 +245,13 @@ output$global_network = renderVisNetwork({
   # nodes data.frame for legend
   lnodes <- data.frame(label = c("Male", "Female"),
                        shape = c( "dot"), 
-                       color = c("#FF6347", "#ffa500"),
+                       color = c("#0048E4", "#FF0000"),
                        id = 1:2)
   
   if (directed) arrow = c("to", FALSE, FALSE, "to", "to") else  arrow = rep(as.character(FALSE),5) 
   
   # edges data.frame for legend
-  ledges <- data.frame(color = c("#0000FF", "#228B22", "#FF0000", '#ff01d9','#ffbf00'),
+  ledges <- data.frame(color = c("#55402B", "#4F66AD", "#FF0000", '#FC8A21','7B09B0'),
                        label = c("is teacher of", "is friend of", "is family of", "studied the work of", "sent letters to"), 
                        arrows =arrow, 
                        font.align = "bottom")
@@ -438,10 +438,10 @@ output$local_network = renderVisNetwork({
     # Setting parameters straight in the data frame for visNetwork
     # Setting parameters straight in the data frame for visNetwork
     data$nodes$color.background = case_when(
-      data$nodes$Group == "Male" ~ '#FF6347',
-      data$nodes$Group == "Female" ~ '#ffa500',
-      data$nodes$Group == "Place" ~ '#31e001',
-      data$nodes$Group == "God" ~ '#05e2ff'
+      data$nodes$Group == "Male" ~ '#0048E4',
+      data$nodes$Group == "Female" ~ '#FF0000',
+      data$nodes$Group == "Place" ~ '#62BC0A',
+      data$nodes$Group == "God" ~ '#FBF100'
     )
 
     # Setting group in visnetwork format
@@ -458,19 +458,19 @@ output$local_network = renderVisNetwork({
     
     # Setting parameters straight in the data frame for visNetwork
     data$edges$color.color = case_when(
-      data$edges$Relation == "is teacher of" ~ '#0000FF',
-      data$edges$Relation == "is friend of" ~ '#228B22',
-      data$edges$Relation == "is family of" ~ '#FF0000', 
-      data$edges$Relation == "studied the work of" ~ '#ff01d9',
-      data$edges$Relation == "sent letters to" ~ '#ffbf00',
+      data$edges$Relation == "is teacher of" ~ '#55402B',
+      data$edges$Relation == "is friend of" ~ '#4F66AD',
+      data$edges$Relation == "is family of" ~ '#3A6F06', 
+      data$edges$Relation == "studied the work of" ~ '#FC8A21',
+      data$edges$Relation == "sent letters to" ~ '7B09B0',
       #data$edges$Relation == "is associated with" ~ '#14ff03',
-      data$edges$Relation == "is benefactor of" ~ '#fff23c'
+      data$edges$Relation == "is benefactor of" ~ '#9C8475'
     )
     
     data$edges$color.highlight = case_when(
       data$edges$Relation == "is teacher of" ~ '#00ffff',
       data$edges$Relation == "is friend of" ~ '#568b22',
-      data$edges$Relation == "is family of" ~ '#ff4000',
+      data$edges$Relation == "is family of" ~ '#3A6F06',
       data$edges$Relation == "studied the work of" ~ '#d9ff01',
       data$edges$Relation == "sent letters to" ~ '#8400ff',
       #data$edges$Relation == "is associated with" ~ '#ff0314',
@@ -480,13 +480,13 @@ output$local_network = renderVisNetwork({
     # nodes data.frame for legend
     lnodes <- data.frame(label = c("Male", "Female"),
                          shape = c( "dot"), 
-                         color = c("#FF6347", "#ffa500"),
+                         color = c("#0048E4", "#FF0000"),
                          id = 1:2)
     
     if (directed) arrow = c("to", FALSE, FALSE, "to", "to") else  arrow = rep(as.character(FALSE),5) 
     
     # edges data.frame for legend
-    ledges <- data.frame(color = c("#0000FF", "#228B22", "#FF0000", '#ff01d9','#ffbf00'),
+    ledges <- data.frame(color = c("#55402B", "#4F66AD", "#FF0000", '#FC8A21','7B09B0'),
                          label = c("is teacher of", "is friend of", "is family of", "studied the work of", "sent letters to"), 
                          arrows = arrow, 
                          font.align = "bottom")
@@ -755,13 +755,13 @@ network_cmnt =  reactive({
       
       # Setting parameters straight in the data frame for visNetwork
       data$edges$color.color = case_when(
-        data$edges$Relation == "is teacher of" ~ '#0000FF',
-        data$edges$Relation == "is friend of" ~ '#228B22',
-        data$edges$Relation == "is family of" ~ '#FF0000', 
-        data$edges$Relation == "studied the work of" ~ '#ff01d9',
-        data$edges$Relation == "sent letters to" ~ '#ffbf00',
+        data$edges$Relation == "is teacher of" ~ '#55402B',
+        data$edges$Relation == "is friend of" ~ '#4F66AD',
+        data$edges$Relation == "is family of" ~ '#3A6F06', 
+        data$edges$Relation == "studied the work of" ~ '#FC8A21',
+        data$edges$Relation == "sent letters to" ~ '7B09B0',
         #data$edges$Relation == "is associated with" ~ '#14ff03',
-        data$edges$Relation == "is benefactor of" ~ '#fff23c'
+        data$edges$Relation == "is benefactor of" ~ '#9C8475'
       )
       
       data$edges$color.highlight = case_when(
@@ -777,13 +777,13 @@ network_cmnt =  reactive({
       # nodes data.frame for legend
       lnodes <- data.frame(label = c("Male", "Female"),
                            shape = c( "dot"),
-                           color = c("#FF6347", "#ffa500"),
+                           color = c("#0048E4", "#FF0000"),
                            id = 1:2)
       
       if (directed) arrow = c("to", FALSE, FALSE, "to", "to") else  arrow = rep(as.character(FALSE),5) 
       
       # edges data.frame for legend
-      ledges <- data.frame(color = c("#0000FF", "#228B22", "#FF0000", '#ff01d9','#ffbf00'),
+      ledges <- data.frame(color = c("#55402B", "#4F66AD", "#FF0000", '#FC8A21','7B09B0'),
                            label = c("is teacher of", "is friend of", "is family of", "studied the work of", "sent letters to"), 
                            arrows =arrow, 
                            font.align = "bottom")
