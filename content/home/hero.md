@@ -4,7 +4,7 @@ widget = "hero"
 active = true
 date = 2017-10-15T00:00:00
 
-title = "Intellectual Networks in Ancient Greece"
+#title = "Intellectual Networks in Ancient Greece"
 
 # Order that this section will appear in.
 weight = 1
