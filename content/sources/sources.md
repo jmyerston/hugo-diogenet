@@ -1,5 +1,5 @@
 +++
-title = "Corpus"
+#title = "Corpus"
 #date = {{ .Date }}
 draft = false
 weight = 1
@@ -22,4 +22,4 @@ categories = []
 
 
 
-
+The main source of Diogenet's dataset is the work of Diogenes Laertius with a complimentary set of data based on  the testimonia collected by Diels and Kranz  in the *Fragments of the Pre-socratics*. 

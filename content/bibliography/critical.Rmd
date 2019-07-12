@@ -13,5 +13,5 @@ weight: 1
 ---
 nocite: | 
   @diogenes_lives_2013
-  @diogenes_vitarum_2000
+#  @diogenes_vitarum_2000
 ---

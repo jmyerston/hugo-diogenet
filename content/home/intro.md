@@ -82,22 +82,16 @@ vertices. We call it a global view because in it you can see the entire nextwork
 clicking on the nodes will highlight their most immediate ties. You can
 also scroll with the mouse to zoom in and out the network.
 
-***
-<iframe src="global_vnw.html" height="600" width="1100" align="middle" frameBorder="0">  </iframe>
-
-***
-
-
 ### Local Networks
 
 As we just mentioned, you can access Diogenet's dataset from different perspectives.  While the *Global View* of the network is important to gain a panoramic view of the overall structure, the *Local View* allows to focus on one specific node  and their neighbors.You can further explore the local view in the Dashboard where you will find several variables that can be modified.
 
-#### Local View
+<!---#### Local View --->
 
-***
-<iframe src="egonet_vnw.html" height="600" width="1100" align="middle" frameBorder="0" scrolling="no"> </iframe>
 
-***
+<center>{{<figure library="1" src="figure2.png" height="600" width="600" title="Figure 2" >}}</center>
+
+
  In network theory, a node that is the focus of a local analysis is called the *ego*, while its neighbors are *alters*. The distance between *ego* and *alter* is called *order*. Higher order will return more neighbors if the node is not socially isolated. The ego in the present visualization is Plato and the order set to 2, this means, it includes those individuals who are 1 to 2 steps away from Plato.  
 
 ###  Communities
@@ -107,13 +101,15 @@ With the help of different algorithms, it is possible to identify *communities* 
 
 
 #### Communal View
-
+<!---
 ***
 
 <iframe src="comnty_vnw.html" height="600" width="1100" align="middle" frameBorder="0" scrolling="no"></iframe>
 
 
 ***
+
+--->
 
 In the Dashboard, we offer here seven different algorithms you can choose from. Some of them, for example, the *Cluster Louvain* algorithm not only identifies communities but also the bridges that establish a path of communication between them.  In social network analysis,  a *bridge* is a tie that connects two components or communities. In the Dashboard, you can see the bridges highlighted in red when you chose Igraph as the visualization library. The library Visnetwork do not offer this option but it allows the nodes to be moved around for their closer inspection. 
 
