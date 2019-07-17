@@ -1,5 +1,5 @@
 +++
-#title = "Corpus"
+title = "Texts and Data"
 #date = {{ .Date }}
 draft = false
 weight = 1

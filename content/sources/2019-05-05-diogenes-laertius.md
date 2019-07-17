@@ -11,7 +11,6 @@ image:
   focal_point: ''
 ---
 
-Diogenes Laertius
 
 Diogenes Laertius is virtually unknown as a person, beginning with his
 name---whether it should be written "Diogenes Laertius" or "Laertius

@@ -1,5 +1,5 @@
 ---
-title: "Diogenet's Map Dashboard"
+title: "Diogenet's Map"
 subtitle: "Intellectual Networks from Ancient Greece"
 output: 
   flexdashboard::flex_dashboard:
@@ -13,10 +13,7 @@ runtime: shiny
 library(ggplot2)
 library(tidyverse)
 library(pleiades)
-library(sf)
 library(devtools)
-library(georeference)
-library(geosphere)
 library(leaflet)
 library(magrittr)
 library(shiny)
@@ -27,8 +24,7 @@ library(viridis)
 library(igraph)
 ```
 
-Travel's Map
-===================================== 
+
 
 Inputs {.sidebar}
 -------------------------------------
@@ -46,7 +42,7 @@ h4("Traveler:")
 # Node selection
 selectInput(inputId = "philosopher", 
             label = NULL, 
-            choices = c("All", travel_edges$name), 
+            choices = c("All", sort(travel_edges$name, decreasing = FALSE)), 
             selected = "All")
 br()
 h4("Centrality Index:")
@@ -168,7 +164,8 @@ observe({
   all_places_full_data$eigenvector = values$eigenvector
   
   n_col =  50
-  node_vir_col = viridis(n = n_col, begin = 0.5, end = 0.6, direction = 1, option = "magma")
+  node_vir_col = viridis(n = n_col, begin =  0.55, end = 1, direction = 1, option = "B")
+  node_vir_col = returnColor(node_vir_col)
   
   if (!is.null(input$centrality_type)) {
   
@@ -187,14 +184,18 @@ observe({
     }
     
     all_places_full_data$centrality = centrality
-    print(all_places_full_data)
     
     min = min(centrality)
     max = max(centrality)
     
-    col_index_vector = col_index(centrality, n_col = n_col, min = min, max = max)
+    #La siguiente ecuación no se usa. 
+    #col_index_vector = col_index(centrality, n_col = n_col, min = min, max = max)
     
-    pal  = colorNumeric(palette = "magma", domain = centrality)
+    # pal  = colorNumeric(palette = "magma", domain = centrality)
+    # Cambio de enfoque
+    pal <- colorNumeric(node_vir_col, domain = centrality)
+    #print(node_vir_col)
+    
     
     text_title = input$centrality_type
   
@@ -249,7 +250,7 @@ leafletOutput(outputId="travels_network")
 
 ```
 
-### Centralities
+### Metrics
 
 ```{r, echo=FALSE}
 
