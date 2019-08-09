@@ -324,8 +324,8 @@ enableGitInfo = false
 
   
  [[menu.main]]
- name = "Dashboard"
- url = "/dashboard/"
+ name = "Horus"
+ url = "/horus/"
  weight = 3
 
 

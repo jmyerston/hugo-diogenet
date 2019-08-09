@@ -1,3 +1,7 @@
+
+
+
+
 +++
 #title = "Introduction"
 #date = {{ .Date }}
@@ -19,98 +23,44 @@ categories = []
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = ""
 +++
-## Introduction
-Diogenet is a dataset and tool for the investigation of the impact of
-social ties on the construction and diffusion of knowledge in ancient
-Greece. The main theoretical approach at the foundations of Diogenet is
-formal social network analysis, a branch of anthropology and sociology.
-Accordingly, we use the concepts of network, nodes and ties, to study
-the relations that linked a large number of intellectuals of the ancient
-world. Contrary to most intellectual histories of the ancient Greece, we
-do not only focus on philosophers but also on their family members,
-friends outside the field of philosophy and science, and benefactors.
-Another important aspect of this project is our interest in the effect
-of traveling on the discovery of ideas. We think that moving away from
-the conception that fields of knowledge are closed systems allows a
-better undestanding of the social processes that lie under the
-dissemination of knowledge in the ancient world.
 
-The main source of our current dataset is the *Lives and Opinions of
-Eminent Philosophers* that [Diogenes
-Laertius](http://diogenet.ucsd.edu/sources/) wrote in the third century
-CE, about seven hundred years after the appearance of first philosophers
-in Asia Minor. In this work, the Greek doxographer and biographer
-reports the main theories and life anecdotes of the philosophers of the
-archaic, classical, and Hellenistic periods. Despite his meticulous
-accounts, however, Diogenes Laertius has been much distrusted by modern
-historians of philosophy. One of the main arguments raised against his
-work is based on the apparently excessive attention that he paid to
-matters perceived as irrelevant for the history of ideas. These
-digressions are in fact stories about the family, friends, romantic
-relations, benefactors, and travels of ancient philosophers. It is
-precisely this perceived weakness that makes his work a great starting
-point for the reconstruction of the social networks of the intellectual
-of ancient Greece.
+# Introduction 
 
-Currently we offer four interactive visualizations of the social network
-that Diogenes described in the *Lives*. To make sense of these
-visualizations some background both in social network theory and the
-history of ancient Greek philosophy is necessary. For this reason, we
-recommend using the visualization tools in the
-[Dashboard](http://diogenet.ucsd.edu/dashboard/) and the
-[Map](http://diogenet.ucsd.edu/map/map.html) in conjunction with
-Diogenes' text which is available in various editions in [Greek and
-translation](http://diogenet.ucsd.edu/sources/) and an introduction to
-social network analysis.
+Diogenet is a dataset and a series of web applications for the investigation of the impact of the social networks of intellectuals in ancient Greece.  In contrast to most approaches to the intellectual history of classical antiquity, we do not only focus on philosophers but also on the social ties that linked them to other social actors. However, we do not limit ourselves to study relations among intellectuals, but also take into consideration family members, lovers, friends outside the field of philosophy and science, and benefactors. This is important because philosophers, now and then, are situated in social spaces that go beyond their relationships to other intellectuals. We think that moving away from the conception that fields of knowledge are closed systems allows a better understanding of the social processes that underlie the construction of knowledge in the ancient world.  
+
+An important aspect of the networks of ancient intellectuals was  their geographical location and the spatial mobility of some actors who could connect communities separated in space.  Since in the ancient Mediterranean traveling was central in the production and exchange of ideas, we have included travel itineraries in our dataset.  In our interactive Map, for instance, you can find that thinkers like Pythagoras, Democritus, and Plato undertook long distance journeys. We are particularly interested in the impact  of long distance traveling and intercultural exchange in the formation of schools of thought and the production of new ideas.
+
+The main ancient source that we use to explore such issues is the *Lives of Philosophers* that Diogenes Laertius wrote in the third century CE, about eight hundred years after the appearance of the first philosophers in Asia Minor. In this work, Diogenes reports not only about the theories of  philosophers but also about their lives. Despite his meticulous accounts, however, Diogenes has been much distrusted by modern historians of philosophy. One of the main arguments raised against his work is based on the apparently excessive attention that he paid to matters perceived as irrelevant for the history of ideas. These digressions are, in fact, stories about the family, friends, romantic relations, benefactors, and travels of ancient philosophers. It is precisely this perceived weakness that makes his work a great starting point for the reconstruction of the social networks of the intellectual of ancient Greece.
+
+Currently we offer two interactive tools for the study of the social networks that Diogenes described in the *Lives*; these are [Horus](http://diogenet.ucsd.edu/horus/), a general network visualization tool that creates network visualizations from both socio-centric and ego-centric perspectives, and the Map, a tool for the exploration of the travels of ancient intellectuals.  
+
+To make sense of the visualizations produced by [Horus](http://diogenet.ucsd.edu/horus/) and the Map, some background both in social network theory and the history of ancient Greek philosophy is necessary. In the [bibliography](http://diogenet.ucsd.edu/bibliography/) you can find  listed some introductory references to the subject.
+
+## Network Visualizations
+
+With the help of [Horus](http://diogenet.ucsd.edu/horus/), you can visualize a **global** and **local** view of the networks, as well as search for intellectual communities. Each network that you can study in [Horus](http://diogenet.ucsd.edu/horus/) is built on a specific type of social tie that you can choose from the menu. Exploring each type of tie separately is important because a family network, for instance, is different from a network of friends or peer philosophers. The expectations, themes of conversation, and even patterns of behavior in each network were  articulated differently depending on  the type of social ties through which the actors were intertwined. What Axiothea of Phlius conversed with her father as a daughter was, most likely, not what she discussed with  Plato in the Academy.  
+
+### Global Network View
+
+In the screenshot that you see below, the actors in the network are represented as nodes and the ties which link them as arrows or as simple lines. We call this the **global network** view because it reflects the entire network of teachers and pupils. You can explore this network with [Horus](http://diogenet.ucsd.edu/horus/), which allows many different adjustments.  For example, you can choose one or many social ties, move the nodes, and highlight the most immediate ties of a node.  You can also use your mouse scroll button to zoom in and out of the network.
+
+{{< figure library="1" src="figure1.png">}}
 
 
+### Local Network View
 
-##  Network Visualizations
-Diogenet's dataset can be accessed through the Dashboard. With the help
-of the interactive applications that you will find there, you can
-visualize a global and local view of the networks. Each network is built
-by specific type of relation or tie. A family network, for instance, is
-different from a network of friends or peer philosophers. The
-expectations, themes of conversation and even patterns of behavior in
-each network are influenced by the type of relation in which the actors
-are involved.
+While the global view is important to gain a panorama of the overall structure of the network , the local view allows you to focus on one specific node and its neighbors.[^1] You can explore the local view in [Horus](http://diogenet.ucsd.edu/horus/) by modifying several variables that appear in the left menu. 
 
-### Global View
-In the visualization that you see right below, the actors in the network are
-represented as nodes and the relations between them as arrows or
-vertices. We call it a global view because in it you can see the entire nextwork of teachers and pupils. This simplified version of the Dashboard is interactive, this means that the nodes can be moved with the mouse, and
-clicking on the nodes will highlight their most immediate ties. You can
-also scroll with the mouse to zoom in and out the network.
+{{< figure library="1" src="figure2.png">}}
 
-### Local Networks
+Among the variables you can modify in the local view is *ego*, the focus node whose network you would like to explore. Another important variable is **order**, the distance between *ego* and *alter.* In social network theory, *ego* is the node at the center of analysis, while its neighbors are *alters*.  Higher values in **order** will return more neighbors if the node is not socially isolated. In the screenshot of the local view that you see above, the *ego* is Plato and the **order** set to 2; this means, only individuals who are 1 and 2 steps away from Plato are shown.
 
-As we just mentioned, you can access Diogenet's dataset from different perspectives.  While the *Global View* of the network is important to gain a panoramic view of the overall structure, the *Local View* allows to focus on one specific node  and their neighbors.You can further explore the local view in the Dashboard where you will find several variables that can be modified.
+### Communities
 
-<!---#### Local View --->
+In the community page of [Horus](http://diogenet.ucsd.edu/horus/) it is possible to search for communities of philosophers, friends, and family with the help of different algorithms. A community is a cohesive group of social actors. In the image below, each community is highlighted with different colors. Most interestingly, algorithms find communities that do not overlap with current designations of philosophical schools. This is understandable because algorithms do not identify communities in terms of self-designations such as "followers of Plato." Instead, they consider the actual ties that link the nodes.
 
+{{< figure library="1" src="figure3.png" >}}
 
-<center>{{<figure library="1" src="figure2.png" height="600" width="600" title="Figure 2" >}}</center>
+In [Horus](http://diogenet.ucsd.edu/horus/), we offer seven different algorithms to identify communities. Some of them, for example the *Cluster Louvain* algorithm, identify not only communities but also the ties that cross and connect two different groups. In the communities tab of [Horus](http://diogenet.ucsd.edu/horus/), you can choose between two visualization libraries: *Visnetwork* and *igraph.* *Visnetwork* is dynamic and allows the manipulation of the nodes. *igraph* is static but nevertheless indicates the social territories where communities overlap through the coloring of the adjacent areas.
 
-
- In network theory, a node that is the focus of a local analysis is called the *ego*, while its neighbors are *alters*. The distance between *ego* and *alter* is called *order*. Higher order will return more neighbors if the node is not socially isolated. The ego in the present visualization is Plato and the order set to 2, this means, it includes those individuals who are 1 to 2 steps away from Plato.  
-
-###  Communities
-
-With the help of different algorithms, it is possible to identify *communities*  of philosohers, friends, and family. A community is a cohesive group of social actors. In the diagram below, each community is highlighted with different colors. Most interestingly, algorithms find communities that do not overlap with current designations of philosophical schools. This is understadable because algorithms do not identify communties in terms of self-designations such as "followers of Plato". Instead they consider the actual ties that link the nodes.  
-
-
-
-#### Communal View
-<!---
-***
-
-<iframe src="comnty_vnw.html" height="600" width="1100" align="middle" frameBorder="0" scrolling="no"></iframe>
-
-
-***
-
---->
-
-In the Dashboard, we offer here seven different algorithms you can choose from. Some of them, for example, the *Cluster Louvain* algorithm not only identifies communities but also the bridges that establish a path of communication between them.  In social network analysis,  a *bridge* is a tie that connects two components or communities. In the Dashboard, you can see the bridges highlighted in red when you chose Igraph as the visualization library. The library Visnetwork do not offer this option but it allows the nodes to be moved around for their closer inspection. 
-
-
+[^1]: This could also be called in social networks analysis' jargon the egocentric perspective
