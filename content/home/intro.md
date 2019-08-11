@@ -44,7 +44,7 @@ With the help of [Horus](http://diogenet.ucsd.edu/horus/), you can visualize a *
 
 In the screenshot that you see below, the actors in the network are represented as nodes and the ties which link them as arrows or as simple lines. We call this the **global network** view because it reflects the entire network of teachers and pupils. You can explore this network with [Horus](http://diogenet.ucsd.edu/horus/), which allows many different adjustments.  For example, you can choose one or many social ties, move the nodes, and highlight the most immediate ties of a node.  You can also use your mouse scroll button to zoom in and out of the network.
 <center>
-{{< figure library="1" src="figure1.2.png">}}
+{{< figure library="1" src="figure1.png">}}
 </center>
 
 ### Local Network View
