@@ -642,7 +642,7 @@ visNetworkOutput(outputId="local_network")
 
 ```
 
-Graph + Centrality {data-navmenu="Local Network" data-orientation="columns"}
+Centrality Measures{data-navmenu="Local Network" data-orientation="columns"}
 ===================================== 
 
 Inputs {.sidebar}
