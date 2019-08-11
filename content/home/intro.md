@@ -43,15 +43,17 @@ With the help of [Horus](http://diogenet.ucsd.edu/horus/), you can visualize a *
 ### Global Network View
 
 In the screenshot that you see below, the actors in the network are represented as nodes and the ties which link them as arrows or as simple lines. We call this the **global network** view because it reflects the entire network of teachers and pupils. You can explore this network with [Horus](http://diogenet.ucsd.edu/horus/), which allows many different adjustments.  For example, you can choose one or many social ties, move the nodes, and highlight the most immediate ties of a node.  You can also use your mouse scroll button to zoom in and out of the network.
-
-{{< figure library="1" src="figure1.png">}}
-
+<center>
+{{< figure library="1" src="figure1.2.png">}}
+</center>
 
 ### Local Network View
 
 While the global view is important to gain a panorama of the overall structure of the network , the local view allows you to focus on one specific node and its neighbors.[^1] You can explore the local view in [Horus](http://diogenet.ucsd.edu/horus/) by modifying several variables that appear in the left menu. 
 
+<center>
 {{< figure library="1" src="figure2.png">}}
+</center>
 
 Among the variables you can modify in the local view is *ego*, the focus node whose network you would like to explore. Another important variable is **order**, the distance between *ego* and *alter.* In social network theory, *ego* is the node at the center of analysis, while its neighbors are *alters*.  Higher values in **order** will return more neighbors if the node is not socially isolated. In the screenshot of the local view that you see above, the *ego* is Plato and the **order** set to 2; this means, only individuals who are 1 and 2 steps away from Plato are shown.
 
@@ -59,7 +61,9 @@ Among the variables you can modify in the local view is *ego*, the focus node wh
 
 In the community page of [Horus](http://diogenet.ucsd.edu/horus/) it is possible to search for communities of philosophers, friends, and family with the help of different algorithms. A community is a cohesive group of social actors. In the image below, each community is highlighted with different colors. Most interestingly, algorithms find communities that do not overlap with current designations of philosophical schools. This is understandable because algorithms do not identify communities in terms of self-designations such as "followers of Plato." Instead, they consider the actual ties that link the nodes.
 
+<center>
 {{< figure library="1" src="figure3.png" >}}
+</center>
 
 In [Horus](http://diogenet.ucsd.edu/horus/), we offer seven different algorithms to identify communities. Some of them, for example the *Cluster Louvain* algorithm, identify not only communities but also the ties that cross and connect two different groups. In the communities tab of [Horus](http://diogenet.ucsd.edu/horus/), you can choose between two visualization libraries: *Visnetwork* and *igraph.* *Visnetwork* is dynamic and allows the manipulation of the nodes. *igraph* is static but nevertheless indicates the social territories where communities overlap through the coloring of the adjacent areas.
 
