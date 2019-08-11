@@ -10,16 +10,12 @@ runtime: shiny
 ---
 
 ```{r setup}
-library(ggplot2)
 library(tidyverse)
-library(pleiades)
 library(devtools)
 library(leaflet)
-library(magrittr)
 library(shiny)
 library(DT)
-library(sp)
-library(htmlwidgets)
+library(geosphere)
 library(viridis)
 library(igraph)
 library(visNetwork)
@@ -70,7 +66,6 @@ sliderInput(inputId = "label_size_map", label = "Label Size", min = 0.0, max = 1
 sliderInput(inputId = "node_size_map", label = "Node Size", min = 0.0, max = 10.0, value = c(4, 6),ticks = TRUE, step = 1)
 
 #div(message, style = "color:red")
-
 
 ```
 
@@ -192,7 +187,7 @@ observe({
   all_places_full_data$eigenvector = values$eigenvector
   
   n_col =  50
-  node_vir_col = viridis(n = n_col, begin =  0.2, end = 1.0, direction = 1, option = "magma")
+  node_vir_col = viridis(n = n_col, begin =  0.55, end = 1.0, direction = 1, option = "B")
   node_vir_col = returnColor(node_vir_col)
   
   if (!is.null(input$centrality_type)) {
