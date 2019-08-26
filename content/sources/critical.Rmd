@@ -1,0 +1,17 @@
+---
+title: Critical Editions
+author: ''
+#date: []
+#bibliography: diogenes.bib
+#showthedate : false
+bibliography: diogenes.bib
+weight: 3
+---
+
+
+
+---
+nocite: | 
+  @diogenes_lives_2013
+#  @diogenes_vitarum_2000
+---

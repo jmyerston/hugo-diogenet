@@ -1,0 +1,21 @@
+---
+title: Social Networks
+author: ''
+#date: []
+bibliography: diogenes.bib
+showthedate : false
+weight: 6
+---
+
+
+---
+nocite: | 
+  @latour_reassembling_2007
+  @nooy_exploratory_2018
+  @perry_egocentric_2018
+  @white_identity_1992
+  @wasserman_social_1994
+  
+ 
+---
+

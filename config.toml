@@ -52,8 +52,8 @@ enableGitInfo = false
   # AUTHOR SETUP
 
   # Your details.
- # name = "Lena Smith"
-  #role = "Professor of Artificial Intelligence"
+ name = "Jacobo Myerston"
+  #role = "Professor of Classics and Comparative Literature"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -113,7 +113,7 @@ enableGitInfo = false
 
   # Font style.
   #   Choose from `default`, `classic`, or `playfair`.
-  font = "default"
+  font = "classic"
 
   # Description for social sharing and search engines. If undefined, author role is used in place.
   description = ""
@@ -334,10 +334,10 @@ enableGitInfo = false
   url = "/map/"
   weight = 4
 
-[[menu.main]]
-  name = "Bibliography"
-  url = "/bibliography/"
-  weight = 7
+#[[menu.main]]
+#  name = "Bibliography"
+#  url = "/bibliography/"
+#  weight = 7
 
 
   
@@ -349,10 +349,10 @@ enableGitInfo = false
 #  weight = 8
 
 
-#[[menu.main]]
-#  name = "Tutorials"
-#  url = "/tutorial/"
-#  weight = 5
+[[menu.main]]
+  name = "Tutorial"
+  url = "/tutorial/"
+  weight = 5
 
 [[menu.main]]
   name = "Team"

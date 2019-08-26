@@ -1,0 +1,15 @@
+---
+title: Translations
+author: ''
+bibliography: diogenes.bib
+weight: 4
+---
+---
+nocite: | 
+  @diogenes_lives_2018
+  @diogenes_lives_1925
+  @diogenes_laercio_vidas_2007
+---
+
+
+
