@@ -1,5 +1,5 @@
 ---
-title: History of Greek Philosophy
+title: History of Philosophy
 author: ''
 #date: []
 bibliography: diogenes.bib
