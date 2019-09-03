@@ -3,6 +3,7 @@ title: "Diogenet's Map"
 subtitle: "Intellectual Networks from Ancient Greece"
 output: 
   flexdashboard::flex_dashboard:
+        css: darkly.css
         favicon: iah_classicalstudies_logo_fv_pq.png
         navbar:
           - { icon: "fa-home", href: " http://diogenet.ucsd.edu", align: right }
